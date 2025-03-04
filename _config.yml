@@ -1,6 +1,6 @@
 title: Aza Book Reviews
 description: Reviews for books I like
-remote_theme: remote_theme: jekyll/minima
+remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
 
