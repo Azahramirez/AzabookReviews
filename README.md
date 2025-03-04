@@ -1,4 +1,4 @@
-# by Aza Ramirez
+# List of years
 
 ### 2025
 
