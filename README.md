@@ -1,6 +1,4 @@
-# Reviews by Aza Ramirez
-
-## Books I have read for the last 5 years
+# by Aza Ramirez
 
 ### 2025
 
