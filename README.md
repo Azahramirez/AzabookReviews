@@ -3,7 +3,7 @@
 ### 2025
 
 - **El buscador de finales (2008)**
-  A book that I got to know during my younger days as an elementary school student. Really simple way of telling a story, nevertheless the message of this text is trully inspiring, in one way or another shows a pretty daunting anti-AI perspective, which made me think a lot during a week or two about the limits of machine learning capabilities and responsabilities.
+  A book that I got to knew during my younger days as an elementary school student. Really simple way of telling a story, nevertheless the message of this text is trully inspiring, in one way or another shows a pretty daunting anti-AI perspective, which made me think a lot during a week or two about the limits of machine learning capabilities and responsabilities.
 
 - **Greener Than You Think (1947)**
  Awesome and grueling experience on the last pages, great representation of an apocalyptic story with a setting in the US during the post-WWII years; with all the stereotipes included. I feel that it shows an outstanding metaphor of the impact of the human species around the world.
