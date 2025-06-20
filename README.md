@@ -2,7 +2,8 @@
 
 ### 2025
 
-- Greener Than You Think (1947) *In Progress*
+- **Greener Than You Think (1947)**
+ Awesome and grueling experience on the last pages, great representation on an apocalyptic setting in US during the post-WWII years; with all the stereotipes included. I feel that it shows an outstanding metaphor of the impact of the human species around the world.
 
 ### 2024
 
